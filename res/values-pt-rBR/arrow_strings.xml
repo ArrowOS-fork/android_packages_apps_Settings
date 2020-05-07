@@ -122,4 +122,6 @@
     <string name="search">Pesquisar</string>
     <string name="search_apps">Pesquisar aplicativos</string>
 
+    <!-- Arrow maintainer -->
+    <string name="maintainer">Mantenedor</string>
 </resources>
