@@ -111,4 +111,8 @@
     <!-- Game Space -->
     <string name="game_space_title">Espaço de jogo</string>
     <string name="game_space_summary">Melhore sua experiência em jogos</string>
+
+    <!-- Black theme -->
+    <string name="system_black_theme_title">Tema preto</string>
+    <string name="system_black_theme_summary">Forçar o sistema usar o tema preto</string>
 </resources>
