@@ -115,4 +115,11 @@
     <!-- Black theme -->
     <string name="system_black_theme_title">Tema preto</string>
     <string name="system_black_theme_summary">Forçar o sistema usar o tema preto</string>
+
+    <!-- Notch: Full screen apps -->
+    <string name="display_cutout_force_fullscreen_title">Aplicativos em tela cheia</string>
+    <string name="display_cutout_force_fullscreen_summary">Forçar aplicativos a ignorar o espaço do entalhe</string>
+    <string name="search">Pesquisar</string>
+    <string name="search_apps">Pesquisar aplicativos</string>
+
 </resources>
