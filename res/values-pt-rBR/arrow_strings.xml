@@ -84,10 +84,6 @@
     <string name="show_navbar_gesture_bar_title">Barra de gestos</string>
     <string name="show_navbar_gesture_bar_summary">Mostrar barra de gestos na parte inferior da tela</string>
 
-    <!-- Left volume panel -->
-    <string name="volume_panel_on_left_title">Mostrar painel de volume à esquerda</string>
-    <string name="volume_panel_on_left_summary">Exibir painel de volume no lado esquerdo da tela</string>
-
     <!-- Low battery light -->
     <string name="low_battery_light_title">Luz de bateria fraca</string>
     <string name="low_battery_light_summary">Pisca o LED quando a bateria está fraca</string>
