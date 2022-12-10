@@ -169,4 +169,9 @@
 
     <!-- Arrow maintainer -->
     <string name="maintainer">Mantenedor</string>
+
+    <!-- Per-app volume control -->
+    <string name="app_volume">Volume de aplicativos</string>
+    <string name="app_volume_title">Controle de volume por aplicativo</string>
+    <string name="app_volume_summary">Permitir definir diferentes níveis de volume para cada aplicativo</string>
 </resources>
