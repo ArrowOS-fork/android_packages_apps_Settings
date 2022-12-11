@@ -1671,4 +1671,16 @@
          [CHAR LIMIT=NONE] -->
     <string-array name="allowlist_hide_summary_in_battery_usage" translatable="false">
     </string-array>
+
+    <!-- Brightness slider -->
+    <string-array name="brightness_slider_position_entries" translatable="false">
+        <item>@string/top</item>
+        <item>@string/bottom</item>
+    </string-array>
+
+    <string-array name="brightness_slider_position_values" translatable="false">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+
 </resources>
